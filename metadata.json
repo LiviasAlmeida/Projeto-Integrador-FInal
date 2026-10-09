@@ -1,0 +1,8 @@
+{
+  "name": "Flower's Store",
+  "description": "Loja de moda feminina Flower's Store com promoções, catálogo de roupas exclusivas, história da marca e canais de contato.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
