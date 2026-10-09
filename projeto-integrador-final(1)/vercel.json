@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/admin", "destination": "/admin.html" },
+    { "source": "/FlowersStore", "destination": "/index.html" },
+    { "source": "/FlowersStore/:match*", "destination": "/:match*" }
+  ]
+}
